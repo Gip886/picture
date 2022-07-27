@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T08:17:50.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wk15a3w67Y2_-vnOO6zt" version="20.2.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-27T03:41:18.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pYEfi9nsuSaqyov7-WdW" version="20.2.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1533" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cL1yktPFpE50g5m_IooL" name="第 3 页">
-    <mxGraphModel dx="1426" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,122 @@
         </mxCell>
         <mxCell id="aFG3chHqbdqt6q5gufP3-9" value="响应空数据给fe" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="510" y="660" width="180" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="S-rLReBwGIDEeYfrrT5Y" name="第 4 页">
+    <mxGraphModel dx="1426" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3fQ-ty1vbLamURTfsP36-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="80" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="60" width="620" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="3fQ-ty1vbLamURTfsP36-1" target="3fQ-ty1vbLamURTfsP36-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="3fQ-ty1vbLamURTfsP36-1" target="3fQ-ty1vbLamURTfsP36-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="3fQ-ty1vbLamURTfsP36-1" target="3fQ-ty1vbLamURTfsP36-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.325;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="3fQ-ty1vbLamURTfsP36-1" target="3fQ-ty1vbLamURTfsP36-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-1" value="BFF层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-2" value="cc-gray-m&lt;br&gt;管理端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-5" value="公有云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="470" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-7" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-13">
+          <mxGeometry width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-12" value="cc-gray&lt;br&gt;集群查询端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-13">
+          <mxGeometry x="35" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="470" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-15" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-14">
+          <mxGeometry width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-16" value="cc-gray&lt;br&gt;集群查询端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-14">
+          <mxGeometry x="35" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="460" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-18" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-17">
+          <mxGeometry width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-19" value="cc-gray&lt;br&gt;集群查询端" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="3fQ-ty1vbLamURTfsP36-17">
+          <mxGeometry x="35" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="110" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-25" value="创建灰度任务信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-26" value="编辑灰度任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-27" value="灰度任务详细信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-28" value="灰度任务特性列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-29" value="灰度任务列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="260" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-32" value="任务基础信息" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-36" value="同步操作" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="832" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-37" value="分发资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="825" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-38" value="上报资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="835" y="140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-39" value="同步资源结果&lt;br&gt;回调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="827" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="980" y="80" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-42" value="特性信息" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="990" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-43" value="灰度特性列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="985" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-45" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="760" y="390" width="140" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="3fQ-ty1vbLamURTfsP36-47" value="任务状态信息" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="770" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
